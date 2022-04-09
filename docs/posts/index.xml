@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WHGuo&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on WHGuo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Oct 2021 22:52:44 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROS learning note</title>
+      <link>/posts/ros_note/</link>
+      <pubDate>Sat, 09 Oct 2021 22:52:44 -0400</pubDate>
+      
+      <guid>/posts/ros_note/</guid>
+      <description>&lt;p&gt;Some notes in ROS tutorial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello My Blog</title>
+      <link>/posts/helloworld/</link>
+      <pubDate>Sun, 25 Jul 2021 21:19:57 +0800</pubDate>
+      
+      <guid>/posts/helloworld/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
