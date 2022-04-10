@@ -17,7 +17,7 @@ The default hugo version is 0.58.2, which is too old to support some new feature
 
 ## Add an environment variable
 
-![image-20220410115114570.png](https://s2.loli.net/2022/04/10/ErpdADanXRqW6e1.png)
+![image-20220410115114570](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/image-20220410115114570.png)
 
  
 
@@ -28,7 +28,7 @@ The default hugo version is 0.58.2, which is too old to support some new feature
 - Download node.js from: https://nodejs.org/en/download/
 - Verify Installation
 
-![image-20220409122103135.png](https://s2.loli.net/2022/04/10/Jt2BLoF43E61PkK.png)
+![image-20220409122103135](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/image-20220409122103135.png)
 
 **Install Vercel CLI**
 
@@ -36,7 +36,7 @@ The default hugo version is 0.58.2, which is too old to support some new feature
 
 - ```npm i -g vercel```
 
-![image-20220409122621668.png](https://s2.loli.net/2022/04/10/9pqur1VUsIokE3M.png)
+![image-20220409122621668](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/image-20220409122621668.png)
 
 - Relate local folder with a vercel project `vercel`
 
@@ -56,7 +56,7 @@ The default hugo version is 0.58.2, which is too old to support some new feature
 
 With the above steps, you **should** be able to successfully deploy your website. However I get the follow error:
 
-![image-20220410003814222.png](https://s2.loli.net/2022/04/10/9Fwvf2mzYU57rHW.png)
+![image-20220410003814222](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/image-20220410003814222.png)
 
 It seems like hugo need `.git` to work. However, I cannot (or it is inappropriate) to upload `.git` folder. If you know how to solve this error, please help! Thanks. 
 
