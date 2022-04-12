@@ -5,8 +5,8 @@ title = "The Tangent Planes"
 description = ""
 slug = ""
 authors = []
-tags = []
-categories = []
+tags = ["study_notes"]
+categories = ["math"]
 externalLink = ""
 series = []
 +++

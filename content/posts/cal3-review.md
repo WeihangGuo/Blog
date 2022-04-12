@@ -5,8 +5,8 @@ title = "Multivariable Calculus Review"
 description = ""
 slug = ""
 authors = []
-tags = []
-categories = []
+tags = ["study_notes"]
+categories = ["math"]
 externalLink = ""
 series = []
 +++

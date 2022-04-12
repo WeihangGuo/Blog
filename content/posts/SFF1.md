@@ -5,8 +5,8 @@ title = "The Definition of the Gauss Map and Its Fundamental Properties"
 description = ""
 slug = ""
 authors = []
-tags = []
-categories = []
+tags = ["study_notes"]
+categories = ["math"]
 externalLink = ""
 series = []
 +++
