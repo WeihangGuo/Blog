@@ -103,39 +103,39 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/baboonSTW"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+# name = "Gitlab"
+# # icon = "fa fa-2x fa-gitlab"
+# weight = 2
+# url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+# [[params.social]]
+# name = "Twitter"
+# icon = "fa fa-2x fa-twitter"
+# weight = 3
+# url = "https://twitter.com/johndoe/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/weihang-guo-95519a206/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+# [[params.social]]
+# name = "Medium"
+# icon = "fa fa-2x fa-medium"
+# weight = 5
+# url = "https://medium.com/@johndoe"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+# [[params.social]]
+# name = "RSS"
+# icon = "fa fa-2x fa-rss"
+# weight = 6
+# url = "https://myhugosite.com/index.xml"
+# rel = "alternate"
+# type = "application/rss+xml"
 
 [languages.en]
 languageName = "English"
@@ -151,41 +151,46 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+name = "Category"
+weight = 2
+url = "categories/"
+
+# [[languages.en.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.zh-cn]
-languageName = "中文"
-title = "GuoWH's Blog"
-
-[languages.zh-cn.params]
-author = "Guo,Weihang的博客"
-info = "临渊羡鱼，不如退而结网"
-description = ""
-keywords = ""
-
-[[languages.zh-cn.menu.main]]
-name = "关于我"
-weight = 1
-url = "about/"
-
-[[languages.zh-cn.menu.main]]
-name = "博客"
-weight = 2
-url = "posts/"
-
-[[languages.zh-cn.menu.main]]
-name = "项目"
-weight = 3
-url = "projects/"
-
-[[languages.zh-cn.menu.main]]
-name = "联系"
-weight = 5
-url = "contact/"
+# [languages.zh-cn]
+# languageName = "中文"
+# title = "GuoWH's Blog"
+# 
+# [languages.zh-cn.params]
+# author = "Guo,Weihang的博客"
+# info = ""
+# description = ""
+# keywords = ""
+# 
+# [[languages.zh-cn.menu.main]]
+# name = "关于我"
+# weight = 1
+# url = "about/"
+# 
+# [[languages.zh-cn.menu.main]]
+# name = "博客"
+# weight = 2
+# url = "posts/"
+# 
+# [[languages.zh-cn.menu.main]]
+# name = "项目"
+# weight = 3
+# url = "projects/"
+# 
+# [[languages.zh-cn.menu.main]]
+# name = "联系"
+# weight = 5
+# url = "contact/"
