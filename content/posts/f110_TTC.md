@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2022-04-24T03:35:15+08:00
 title = "1. Automatic Emergency Braking"
 description = "The goal of this blog is to develop a safety node for the race cars that will stop the car from collision when travelling at higher velocities. We will implement Time to Collision using the LaserScan message in the simulator."
