@@ -34,11 +34,19 @@ Western dragons are often depicted as large, winged, four-legged creatures, some
 
 **Chinese Dragon**
 
-The history of the Chinese dragon dates back thousands of years, with early depictions found in artifacts such as pottery, bronze ware, and jade carvings from the Neolithic period and various Chinese dynasties. The dragon's significance in Chinese culture is deeply rooted in ancient beliefs and religions, including Taoism and Confucianism. It was considered a divine creature, symbolizing power, wisdom, and authority, and was often associated with the emperor and celestial forces. Over time, the Chinese dragon myth evolved and absorbed elements from various Chinese myths, legends, and cultural beliefs, coming to represent aspects of Chinese culture such as water, agriculture, and imperial power.
+The history of the Chinese dragon dates back thousands of years, with early depictions found in artifacts such as pottery, bronze ware, and jade carvings from the Neolithic period and various Chinese dynasties. These early dragon depictions were likely inspired by the animals that the people of the time were familiar with or revered. For instance, the serpentine shape of the dragon could have been derived from snakes, which were common and held symbolic significance in many ancient cultures. The association of dragons with water and the weather might have been influenced by crocodiles, powerful creatures that lived in and around water. Furthermore, these early Chinese dragons often bear the characteristics of several animals combined. They might have the scales of a carp, the claws of an eagle, and the eyes of a rabbit, among other features. This amalgamation suggests a symbolic blending of these animals' perceived qualities, such as the carp's perseverance, the eagle's power, and the rabbit's watchfulness.
+
+![Jar with Dragon | China | Ming dynasty (1368–1644), Xuande mark and period  (1426–35) | The Metropolitan Museum of Art](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111200046.jpeg)
+
+The dragon's significance in Chinese culture is deeply rooted in ancient beliefs and religions, including Taoism and Confucianism. It was considered a divine creature, symbolizing power, wisdom, and authority, and was often associated with the emperor and celestial forces. Over time, the Chinese dragon myth evolved and absorbed elements from various Chinese myths, legends, and cultural beliefs, coming to represent aspects of Chinese culture such as water, agriculture, and imperial power.
 
 ![The Relationship Between the Chinese Emperor and the Dragon ...](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305010101889.jpeg)
 
 This image is a portrait of an ancient emperor in Chinese. The symbol of dragon is everywhere from the clothes to the chair. 
+
+Given that the dragon was a symbol of the emperor and imperial power, it's not surprising that dragon motifs are prominently featured in imperial palaces. The Forbidden City in Beijing, for instance, is filled with dragon imagery - from dragon statues and carvings to dragon-themed frescoes and ornaments.
+
+![Chinese Temple Roof With Dragon Head Sculpture. Image 14852341.](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111216593.jpeg)
 
 **Western Dragon**
 
@@ -50,8 +58,23 @@ The figure is a portrait of Sumerian Dragon, which has a more than passing resem
 
 ## Roles in Mythology and Folklore
 
-**TODO**
+**Chinese Dragon**
 
-Demo of a viedo
+One of the famous folklore is called "鲤鱼跃龙门", "Carp Leaping over the Dragon Gate". The Dragon Gate is a mythical waterfall located on the Yellow River. It was said that if a carp could swim upstream and leap over the Dragon Gate, it would transform into a dragon. This task was considered extremely difficult due to the swift currents and the height of the waterfall. Every year, many carps would try to leap over the Dragon Gate, but very few could succeed. Those that did were instantly transformed into dragons, gaining the ability to fly and control the weather. The phrase "鲤鱼跃龙门" has become a Chinese idiom, symbolizing perseverance and the ability to overcome obstacles to achieve success. It's often used in the context of students studying for exams, individuals striving for career advancement, or any situation requiring significant effort to overcome challenges.
 
 {{<youtube QVifBgyq0zs>}}
+
+
+
+**Western Dragon**
+
+The dragon in J.R.R. Tolkien's "The Hobbit" is named Smaug. Smaug is a fearsome, intelligent, and extremely powerful creature, and he is one of the last great dragons in Middle Earth. Smaug is known for his love of treasure. He resides in the Lonely Mountain (Erebor), where he guards the vast wealth that was once the property of the dwarves. Smaug stole this treasure and drove the dwarves from their home, and the quest to reclaim the Lonely Mountain from Smaug forms the central plot of "The Hobbit." Physically, Smaug is described as being of enormous size, with red-golden scales and eyes that glow in the dark. He can fly and breathe fire, as is typical for Western dragons. His underbelly is covered with gem-encrusted scales that serve as a protective armor, except for one small spot where a scale is missing. Smaug's portrayal in "The Hobbit" aligns with the Western concept of dragons as fearsome, treasure-hoarding creatures, a contrast to the more benevolent symbolism of dragons in Chinese culture.
+
+{{<youtube sBN1E0VmP1M>}}
+
+---
+
+*Chinese dragons - facts, culture, origins, and art*. Chinese Dragon: Meaning, Colors Symbolism, Mythology, Types. (n.d.). https://www.chinahighlights.com/travelguide/article-chinese-dragons.htm 
+
+*Learn about Chinese dragons: Chinese Language Institute*. CLI. (2022, March 31). https://studycli.org/chinese-culture/chinese-dragons/ 
+
