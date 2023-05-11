@@ -14,7 +14,21 @@ As a Chinese student studying abroad in the US, I was surprised to learn about t
 
 ![Western Dragon and Chinese Dragon](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305010053237.jpeg)
 
-Chinese dragons were typically depicted as long and serpentine, with bright colors and intricate patterns, and associated with good fortune and prosperity. Meanwhile, Western dragons were often portrayed as large, scaly beasts with wings and fiery breath and were often viewed as villains to be defeated. This realization was shocking to me, as I had never considered the possibility of such a stark difference between two creatures that shared the same name. It emphasized the importance of cultural understanding and appreciation and the potential misunderstandings that can arise when different cultures have different interpretations of symbols and images. **While both interpretations have their own unique merits, the dragon in Chinese culture is superior to the dragon in Western culture due to their more profound cultural significance, symbolism, and positive connotations (Need Change)**. 
+Chinese dragons were typically depicted as long and serpentine, with bright colors and intricate patterns, and associated with good fortune and prosperity. Meanwhile, Western dragons were often portrayed as large, scaly beasts with wings and fiery breath and were often viewed as villains to be defeated. This realization was shocking to me, as I had never considered the possibility of such a stark difference between two creatures that shared the same name. **Despite sharing a name, the Chinese and Western dragons are fundamentally different entities, reflecting the unique cultural, historical, and philosophical contexts from which they emerge. These differences underscore the importance of understanding cultural context when interpreting symbols or mythological creatures.** 
+
+## Physical Appearance
+
+**Chinese Dragon**
+
+Chinese dragons are typically serpentine, long and slender, embodying characteristics of several animals. They have the body of a snake, scales of a carp, head of a camel, eyes of a rabbit, ears of a cow, claws of an eagle, and paws of a tiger. Unlike their Western counterparts, Chinese dragons do not have wings but are still capable of flight. They are often depicted amidst clouds or with a pearl, symbolizing their control over water and weather.
+
+![Learn About Chinese Dragons | Chinese Language Institute](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111144202.png)
+
+**Western Dragon**
+
+Western dragons are often depicted as large, winged, four-legged creatures, somewhat dinosaur-like in appearance. They are typically covered in scales, have sharp claws, a spiked tail, and a pair of bat-like wings, giving them the power of flight. Western dragons are often shown breathing fire, a trait rarely seen in Chinese dragons.
+
+![western – Dragon Research Blog](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111145922.jpeg)
 
 ## Origins and Historical Context
 
