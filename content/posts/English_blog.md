@@ -46,7 +46,7 @@ This image is a portrait of an ancient emperor in Chinese. The symbol of dragon 
 
 Given that the dragon was a symbol of the emperor and imperial power, it's not surprising that dragon motifs are prominently featured in imperial palaces. The Forbidden City in Beijing, for instance, is filled with dragon imagery - from dragon statues and carvings to dragon-themed frescoes and ornaments.
 
-![Chinese Temple Roof With Dragon Head Sculpture. Image 14852341.](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111216593.jpeg)
+###### ![Chinese Temple Roof With Dragon Head Sculpture. Image 14852341.](https://raw.githubusercontent.com/baboonSTW/Blog-img/main/202305111216593.jpeg)
 
 **Western Dragon**
 
