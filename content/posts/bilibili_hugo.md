@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2022-04-24T04:17:23+08:00
-title = "Hugo对Bilibili视频嵌入的支持"
+title = "Hugo's Support for Bilibili Video Embedding"
 description = ""
 slug = ""
 authors = []
@@ -11,21 +11,21 @@ externalLink = ""
 series = []
 +++
 
-# Hugo对Bilibili视频嵌入的支持
+# Hugo's Support for Bilibili Video Embedding
 
-有时候写博客的时候想插入一些bilibili的视频作为成品展示或者demo。但是hugo原生只支持youtube并不支持bilibili。每次写HTML链接视频不但麻烦还不优雅，偶然我看到hugo里有一个shortcode的功能。Shortcodes类似于一种标记，Hugo会在生成网站时使用对应的HTML模板替换该位置的Shortcodes代码，然后再生成真正的网站。用这个功能就可以一行代码嵌入bilibili的视频了。成果如下：
+Sometimes when writing a blog, you might want to insert some Bilibili videos as product demonstrations or demos. However, Hugo natively only supports YouTube, not Bilibili. Writing HTML links for the videos each time is not only troublesome but also inelegant. By chance, I discovered that Hugo has a feature called shortcodes. Shortcodes act as a kind of marker, with Hugo using the corresponding HTML template to replace the shortcodes in the site generation process, thus generating the real site. This feature allows you to embed Bilibili videos with just one line of code. The result is as follows:
 
 {{<bilibili BV1Yt411d7xn>}}
 
-实现这个效果只需要 \{\{\<bilibili BV1Yt411d7xn\>\}\}
+To achieve this, you only need \{\{\<bilibili BV1Yt411d7xn\>\}\}
 
 ---
 
-实现： 
+Implementation:
 
-在``/layouts/shortcodes``路径下创建一个`bilibili.html`，读者也可以用别的名字，但是这个文件的名字一定是要和\{\{\<bilibili BV1Yt411d7xn\>\}\}的第一个参数相同。 
+Create a `bilibili.html` under the ``/layouts/shortcodes`` path. Readers can use other names, but the name of this file must match the first argument of \{\{\<bilibili BV1Yt411d7xn\>\}\}.
 
-之后在`/layouts/shortcodes/<SHORTCODE>.html`中添加如下代码：
+Then add the following code to `/layouts/shortcodes/<SHORTCODE>.html`:
 
 ```html
 <style>
@@ -59,8 +59,8 @@ series = []
 
 ---
 
-如果你的主题开启了`csp`，那么你还需要在`framesrc`中添加`"https://player.bilibili.com/"`否则视频会被屏蔽。
+If your theme has `csp` enabled, then you also need to add `"https://player.bilibili.com/"` to `framesrc`, otherwise the video will be blocked.
 
 ---
 
-在更改了`bilibili.html`之后，你就可以在博客中输入\{\{\<bilibili BV号\>\}\}来插入视频了。当然，如果你想用`cid`或者`aid`来插入视频可以把`line 20`中的`bvid`改成`cid`或者`aid`。 
+After changing `bilibili.html`, you can enter \{\{\<bilibili BV number\>\}\} in your blog to embed a video. Of course, if you want to use `cid` or `aid` to embed videos, you can change `bvid` on `line 20` to `cid` or `aid`.

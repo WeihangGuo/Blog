@@ -142,7 +142,7 @@ url = "https://www.linkedin.com/in/weihang-guo-95519a206/"
 languageName = "English"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About Me"
 weight = 1
 url = "about/"
 
@@ -151,10 +151,10 @@ name = "Blog"
 weight = 2
 url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Category"
-weight = 2
-url = "categories/"
+# [[languages.en.menu.main]]
+# name = "Category"
+# weight = 2
+# url = "categories/"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
