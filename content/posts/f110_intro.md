@@ -1,7 +1,7 @@
 +++ 
 draft = true
 date = 2022-04-24T02:29:15+08:00
-title = "Introduction and Setup Environment"
+title = "F1tenth: Introduction and Setup Environment"
 description = ""
 slug = ""
 authors = []

@@ -1,7 +1,11 @@
 +++
-title = "Weihang Guo"
+title = "Weihang Guo (郭炜航) | About Me"
 slug = "contact"
 +++
+I have always been captivated by the synergy between theoretical algorithms and their tangible implementation in robotics, a field that I deeply love because it presents real problems that have the potential to propel society forward. While many envision a future where robots seamlessly perform everyday tasks like doing laundry, driving cars, cleaning houses, and preparing meals, the reality is that we are far from achieving this. Consider biped walking on uneven terrain, a seemingly mundane task for most of us, yet it remains a heated and compelling area of research. The challenge of robots manipulating objects in unknown, uncertain, and unconstrained environments is so profound that these innovations are still largely confined to the world's leading research labs. This gap between potential and current capability is what drives my passion. The robotics problem is so intricate and impactful that it justifies dedicating one's entire life to advancing the technology and seeking solutions.
 
-- **Email:** weihang.guo2001@gmail.com | wg25@rice.edu
-- **Phone:** 3467040401
+At Rice University, I delved deeply into computational techniques, gaining insights that have equipped me to tackle these intricate challenges prevalent in robotics. This passion was sparked at Lehigh University, where I pursued a major in math and computer science. The dual-disciplinary nature of my studies has granted me a unique perspective, allowing me to address problems through both a theoretical and a hands-on technical approach.
+
+While at Lehigh, leadership came calling. I proudly took on the mantle of head of the Lehigh Autonomous Racing team and assumed the role of Software team leader for Lehigh Underwater Robotics. My commitment to academia and mentorship was recognized when I was extended the rare opportunity, as an undergraduate, to serve as a graduate teaching assistant. This role saw me working closely with faculty, co-designing course materials and labs.
+
+Life for me extends beyond academics and leadership. Fitness, particularly bodybuilding, holds a cherished spot in my life. My interests are eclectic, ranging from K-pop to reading. I've always dreamt of taking a road trip alone across the US, inspired by Jack Kerouac's journey in "On the Road." Meeting individuals from varied professional fields and diverse cultures enriches my experiences and broadens my horizons.

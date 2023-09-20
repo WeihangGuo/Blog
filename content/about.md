@@ -10,57 +10,61 @@ author = "Hugo Authors"
 - **Phone:** 3467040401
 
 ## Education
-- **Master of Science, Computer Science**
+- **Master of Computer Science**
   - **Rice University**, Houston, 09/2023 - Present
 
 - **Bachelor of Science, Double Major in Computer Science and Mathematics**
   - **Lehigh University**, Bethlehem, 09/2019 - 05/2023
-  - GPA: 3.85/4.0
+  - GPA: 3.86/4.0
   - Honors and Awards: 
     - **Dean's List** in Spring 2023, Fall 2022, Spring 2022, Fall 2021, Spring 2021, and Fall 2020
-    - **University Honors Convocation**: Certificate of Recognition for Outstanding Academic Achievement
-    - **Donald J. Hillman Memorial Award**: voted by the CSE faculty
-to a senior who has demonstrated outstanding achievement in the study of AI and/or intelligent systems.
+    - **Certificate of Recognition for Outstanding Academic Achievement**: University Honors Convocation
+    - **Donald J. Hillman Memorial Award**: Given annually to a senior whose accomplishment in AI is judged to be most outstanding    
+
+## Work Experience
+- **Robotics Engineer Intern**, *Assembly Intelligence Division in Baosight Software Co., Ltd*, Shanghai, China, 06/2023 – 08/2023
+    - Designed a simulated automated pipeline for a rolling mill finishing unit using RobotStudio, enhancing the assembly line efficiency
+    - Debugged an OpenCV based edge detection systems containing ABB IRB 6700 robot arm in a factory setting
+- **Data Analysis Research Assistant**, *Lehigh University*, Bethlehem, PA, 05/2022 – 08/2022
+    - Analyzed 21,000 field data files using MATLAB to determine the optimal frequency-domain detection method, contributing to a deeper understanding of marine life and potentially improving data precision by 15%
 
 ## Research Experience
-- [**Autonomous Underwater Robotics Development**](https://www.lehighur.org/), Lehigh University | 07/2021 – 09/2022  
-    *Software and Business Team Member*
-    - **MAVLink and Ardusub Integration**: Continuing to use MAVLink for Pixhawk 4 communication and drone control. Leveraging Ardusub, a microcontroller with automatic drone stabilization, and Pymavlink library to translate movement commands to thruster output.
-    - **SLAM Implementation**: Enhancing drone capabilities by integrating Simultaneous Localization and Mapping (SLAM) technology, using a comprehensive SLAM algorithm that combines data from stereo cameras, IMUs, and sonar to boost accuracy.
-    - **YOLO v8 Adoption**: Upgrading object detection capabilities by moving from YOLO v3 to YOLO v8, significantly simplifying the training process and improving model precision.
-    - **Documentation Improvement**: Addressing challenges in onboarding new team members due to inadequate documentation by using Gitbook to record and share information on scripts, code, and design.
-    - **System Upgrade**: Transitioning from Jetson Xavier NX to Jetson AGX Orin architecture on Ubuntu 20 with ROS2 Foxy, enhancing performance and responsiveness, and facilitating the use of advanced machine learning models.
+- [**Autonomous Underwater Robotics Development**](https://www.lehighur.org/), 07/2021 – 05/2023 
+    - Led a team of 14 focusing on object detection and path planning for the underwater robotics
+    - Improved object detection accuracy and efficiency by transitioning from YOLO v3 to YOLO v8 
+    - Integrated the system on Jetson AGX Orin with Ubuntu 20 and ROS2 Foxy, optimizing performance by replacing Jetson Xavier NX with Ubuntu 18 and ROS Melodic
 
+- **Slang Interpreter**, 08/2022 – 12/2022
+    - Coded a scanner, parser, and interpreter for Slang, a subset of Scheme programming language, in Python and Java
+    - Generated and utilized test cases to validate the robustness and accuracy of the compiler, ensuring consistent outputs
+    - Collaborated with a team utilizing Git for version control, underscoring teamwork and the ability to manage collaborative software projects
 
-- **Smart Drifter for Real-Time In-Water Data Collection**, Lehigh University | 01/2022 – 05/2022
-    *Research Assistant*
+- **Autonomous Driving and Robotic Racing**, 01/2022 – 06/2022
+    - Refined a custom implementation of the pure pursuit algorithm in Python and C++ to boost the path-tracking precision
+    - Designed a MATLAB tool for streamlined addition and editing of map waypoints
+.
 
-    - **Hardware Design:** Engineered a compact and robust hardware setup that integrates a Raspberry Pi, Cellular IoT shield, and various sensors to enable effective in-water data collection.
-    - **Data Transmission Solution:** Proposed and implemented a solution to send real-time sensor and GPS data to the cloud via LTE, facilitating quick and reliable data access for further analysis.
+- **Smart Drifter for Real-Time In-Water Data Collection**, 01/2022 – 05/2022
+    - Engineered a compact and robust streamlined hardware configuration that integrated a Raspberry Pi, Cellular IoT shield, and detection sensors
+    - Designed and deployed a solution for real-time transmission of sensor and GPS data to the cloud via LTE using Bash scripts and Python
 
-- **Underwater Acoustic Signal Processing**, Lehigh University | 01/2022 - 08/2022
-    *Research Assistant*
-    - **Study on Detection Algorithms:** Explored the effects of the PRI filter on three distinct Tag-ID detection algorithms: time-domain, frequency-domain, and hybrid approach.
-    - **Development of Evaluation Metrics:** Devised metrics such as Probability of Detection (Pd) and False Alarm Rate (Fa) for a more precise evaluation. Employed ROC curves for performance visualization.
-    - **Comprehensive Data Analysis:** Processed and analyzed 21,000 field data files to assess the efficiency of the chosen algorithms.
-    - **Algorithm Performance Result:** Found that the frequency-domain detection algorithm outperformed others with a detection rate of 87% at a false alarm rate of 5%, and had the lowest time complexity (O(n log n)).
-    - **Real-world Application:** Utilized the findings to enhance the field of Internet of Underwater Things (IoUT). This resulted in better understanding of underwater animal behavior and survival rates, potentially improving data reliability by 15%.
+## Web Development Experience
+- **Personal Blog (whguo.me)**, 07/2021 - Present
+    - Developed and maintained a personal blog on Vercel using Hugo template
+    - Coded a plugin template JavaScript, HTML, and CSS for video playback from Bilibili, a Chinese video-sharing platform
+    - Managed and organized the blog content using Git, with all articles authored in Markdown format for ease of editing
+- **Robotics Team Website**, 07/2021 - 05/2023
+    - Deployed the website on Microsoft Azure using a Hugo template, with customized CSS and HTML modules
+    - Contributed to raising $3,000 in funding through the website’s promotional effort
+- **Social Media Platform: The Buzz**, 01/2022 - 05/2022
+    - Designed a database schema using PostgreSQL to effectively manage the user information, posts, comments, and votes
+    - Developed a command line backend admin interface using Java and Oracle JDBC
+    - Crafted a interactive frontend UI from scratch using HTML, CSS and TypeScript, integrating Google OAuth, and AWS file uploads
+- **Gaming Website**, 01/2022 - 05/2022
+    - Designed and deployed a responsive and interactive gaming platform using React for the frontend interface on Heroku
+    - Developed a real-time gameplay and user interactions backend system in Node.js, integrating MongoDB to store and manage player information and game scores
 
-- **Autonomous Driving and Robotic Racing**, Lehigh University | 01/2022 – 06/2022
-    *Team Leader*
-    - **Pure Pursuit Algorithm Modification:** Led the team in developing and fine-tuning a custom version of the pure pursuit algorithm, enabling more efficient autonomous racing capabilities.
-    - **Optimized Algorithm Parameters:** Successfully optimized the algorithm parameters to improve the speed and accuracy of the autonomous vehicle.
-    - **Waypoint Editing Tool:** Designed and implemented a MATLAB-based tool to add and edit waypoints on a map, enhancing the flexibility and adaptability of the autonomous vehicle's route planning.
-
-## Publications
-- [W. Guo and Y.R. Zheng, “Trade off Between the Probability of Detection and False Alarm Rate in Fish Tag,” MST/IEEE OCEANS, Virginia Beach, VA, Oct. 17-20, 2022 pp. 1-4. ](https://ieeexplore.ieee.org/document/9977220/)
-- [W. Guo, B. Li, H. Zhou, C. Zhang, X. Wang and C. Ni, "
-Construction and characterization of a bio-detector for inflammatory bowel disease". Chinese Journal of Biotechnology,2018,34(12):1906-1914](https://cjb.ijournals.cn/cjben/article/abstract/gc18121906)
-
-## Work EXPERIENCE
-- TODO
-
-## TEACHING EXPERIENCE
+## Teaching Experience
 - **Teaching Assistant**, Department of Electrical and Computer Engineering, Lehigh University | Fall 2022 
     - **Course: ENGR 005: Autonomous Driving and Robotic Racing**
     - Design labs and class discussions about hardware-related issues of the racing vehicle, automatons emergency break, and the wall following algorithm
@@ -69,13 +73,17 @@ Construction and characterization of a bio-detector for inflammatory bowel disea
 
 - **Teaching Assistant**, Department of Electrical and Computer Engineering, Lehigh University | Spring 2023
     - **Course: ECE 350/450-016: Internet of Things**
-    - **Assistant IoT Course:** Guided students through the setup and operation of IoT systems using platforms like U3810A and BeagleBone, with a focus on integrating hardware and software components.
-    - **Conducted Microcontroller Labs:** Instructed students on controlling hardware peripherals (GPIO, PWM, and LCD) through software commands, fostering understanding of microcontroller operations. 
-    - **Oversaw Communication Protocol Labs:** Facilitated learning of I2C, SPI, Zigbee, and Bluetooth LE communication, highlighting the relationship between signal strength and packet error rates.
-    - **Managed IoT Midterm Project:** Supervised a hands-on project that involved developing temperature alarms and machine condition monitoring systems, reinforcing practical application of IoT concepts.
-    - **Educated on LoRa Systems:** Taught students about LoRa design, signal analysis, and compliance testing, providing insight into long-range, low-power wireless communication.
+    - Guided students through the setup and operation of IoT systems using platforms like U3810A and BeagleBone, with a focus on integrating hardware and software components.
+    - Instructed students on controlling hardware peripherals (GPIO, PWM, and LCD) through software commands, fostering understanding of microcontroller operations. 
+    - Facilitated learning of I2C, SPI, Zigbee, and Bluetooth LE communication, highlighting the relationship between signal strength and packet error rates.
+    - Supervised a hands-on project that involved developing temperature alarms and machine condition monitoring systems, reinforcing practical application of IoT concepts.
+    - Taught students about LoRa design, signal analysis, and compliance testing, providing insight into long-range, low-power wireless communication.
 
 - **Class Grader**, Lehigh University						
     - **CSE140: Foundations of Discrete Structures and Algorithms:** Spring & Fall 2022, Spring 2023
     - **CSE202: Computer Organization and Architecture:** Spring 2022 
-    - **CSE398/498: Computer Vision:** Spring 2022
+
+## Publications
+- [W. Guo and Y.R. Zheng, “Trade off Between the Probability of Detection and False Alarm Rate in Fish Tag,” MST/IEEE OCEANS, Virginia Beach, VA, Oct. 17-20, 2022 pp. 1-4. ](https://ieeexplore.ieee.org/document/9977220/)
+- [W. Guo, B. Li, H. Zhou, C. Zhang, X. Wang and C. Ni, "
+Construction and characterization of a bio-detector for inflammatory bowel disease". Chinese Journal of Biotechnology,2018,34(12):1906-1914](https://cjb.ijournals.cn/cjben/article/abstract/gc18121906)
